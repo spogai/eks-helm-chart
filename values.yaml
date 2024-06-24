@@ -2,7 +2,7 @@ cronjob:
   schedule: "*/5 * * * *" # Adjust this to your desired schedule
   image:
     repository: spogai/eks
-    tag: v1.8
+    tag: <tag name> # v1.9
     pullPolicy: IfNotPresent
   restartPolicy: never
 spog_webhook: fdenfhbfhfbvjfbnvjnfjvnaHR0cHM6Ly93ZWJob29rLnNwb2cuYWkvZXZlbnQvdGltZXNpbnRlcm5ldC85cm1oenk4bnVmMjVlNWo2dmxsMWk0NmR1OHM1YWUxdD9ldH===
