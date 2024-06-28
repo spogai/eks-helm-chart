@@ -5,5 +5,5 @@ cronjob:
     tag: v1.11
     pullPolicy: IfNotPresent
   restartPolicy: Never
-spog_webhook: fdenfhbfhfbvjfbnvjnfjvnaHR0cHM6Ly93ZWJob29rLnNwb2cuYWkvZXZlbnQvdGltZXNpbnRlcm5ldC85cm1oenk4bnVmMjVlNWo2dmxsMWk0NmR1OHM1YWUxdD9ldH===
+spog_webhook: fdenfhbfhfbvjfbnhgvfdesekmij770cHM6Ly93ZWJob29rLnNwb2cuYWkvZXZlbnQvdGltZXNpbnRlcm5ldC85cm1oenk4bnVmMjVlNWo2dmxsMWk0NmR1OHM1YWUxdD9ldH===
 Namespace: spog
