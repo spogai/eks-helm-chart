@@ -3,7 +3,18 @@ entries:
   spog-eks:
   - apiVersion: v2
     appVersion: "1"
-    created: "2024-06-28T13:49:41.483780029+05:30"
+    created: "2024-07-01T16:32:09.362371304+05:30"
+    description: A Helm chart for Kubernetes CronJob to push svc mapping to spog -
+      including ingress data also
+    digest: 29b7604117cda7825ef0cc7d6240a10c31bd18ae861aa7fcb6350cd615b1337e
+    name: spog-eks
+    type: application
+    urls:
+    - https://spogai.github.io/eks-helm-chart/spog-eks-0.1.6.tgz
+    version: 0.1.6
+  - apiVersion: v2
+    appVersion: "1"
+    created: "2024-07-01T16:32:09.362005219+05:30"
     description: A Helm chart for Kubernetes CronJob to push svc mapping to spog -
       including ingress data also
     digest: 42c4bce97236ae55cf2dc714a011916381314b5d03aec8c0a3049f5f17fb0593
@@ -14,7 +25,7 @@ entries:
     version: 0.1.5
   - apiVersion: v2
     appVersion: "1"
-    created: "2024-06-28T13:49:41.483292432+05:30"
+    created: "2024-07-01T16:32:09.361713028+05:30"
     description: A Helm chart for Kubernetes CronJob to push svc mapping to spog -
       including ingress data also
     digest: 7f3117baf0e16a722b9502a75f9d1eae5020cf1a79b0437b52885e2de5d98a40
@@ -25,7 +36,7 @@ entries:
     version: 0.1.4
   - apiVersion: v2
     appVersion: "1"
-    created: "2024-06-28T13:49:41.48276126+05:30"
+    created: "2024-07-01T16:32:09.361407638+05:30"
     description: A Helm chart for Kubernetes CronJob to push svc mapping to spog,
       added namespace
     digest: fab3b63863615e7e256fc0f85d6a3b94f75d553610a1b8ae10ec1fbaa30915ec
@@ -36,7 +47,7 @@ entries:
     version: 0.1.3
   - apiVersion: v2
     appVersion: "1"
-    created: "2024-06-28T13:49:41.482300088+05:30"
+    created: "2024-07-01T16:32:09.361033776+05:30"
     description: A Helm chart for Kubernetes CronJob to push svc mapping to spog,
       added namespace
     digest: 730b081d2a1ca31e5e493e11b8898d65b49a3730aa1107a14c7e9d6764ab3adb
@@ -47,7 +58,7 @@ entries:
     version: 0.1.2
   - apiVersion: v2
     appVersion: "1"
-    created: "2024-06-28T13:49:41.481819559+05:30"
+    created: "2024-07-01T16:32:09.3607291+05:30"
     description: A Helm chart for Kubernetes CronJob to push svc mapping to spog
     digest: e6ae35b2270286ae8db2a74b1641e1f2394615b5c330c00f7eb3956969dddcf7
     name: spog-eks
@@ -57,7 +68,7 @@ entries:
     version: 0.1.1
   - apiVersion: v2
     appVersion: "1"
-    created: "2024-06-28T13:49:41.481302208+05:30"
+    created: "2024-07-01T16:32:09.360399896+05:30"
     description: A Helm chart for Kubernetes CronJob to push svc mapping to spog
     digest: 7efed5616d34948d34a9a3e7469e24c31c1717803777b4c155449d76aa0aae81
     name: spog-eks
@@ -65,4 +76,4 @@ entries:
     urls:
     - https://spogai.github.io/eks-helm-chart/spog-eks-0.1.0.tgz
     version: 0.1.0
-generated: "2024-06-28T13:49:41.48031793+05:30"
+generated: "2024-07-01T16:32:09.359871258+05:30"
