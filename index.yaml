@@ -3,7 +3,7 @@ entries:
   spog-eks:
   - apiVersion: v2
     appVersion: "1"
-    created: "2026-01-19T11:18:35.852746028+05:30"
+    created: "2026-01-19T11:21:05.92431918+05:30"
     description: A Helm chart for Kubernetes Pod to push svc mapping to spog - including
       trivy
     digest: 8e5496ba36b3491219b36ad096ec1784be6e343c085eda85cbfa059995e36dea
@@ -14,7 +14,7 @@ entries:
     version: 0.1.25
   - apiVersion: v2
     appVersion: "1"
-    created: "2026-01-19T11:18:35.85246595+05:30"
+    created: "2026-01-19T11:21:05.924013534+05:30"
     description: A Helm chart for Kubernetes Pod to push svc mapping to spog - including
       trivy
     digest: 513220c195ac9f68d370ae2562d73cd3177c6b79b65baabbb3f6e34378f37b4b
@@ -25,7 +25,7 @@ entries:
     version: 0.1.24
   - apiVersion: v2
     appVersion: "1"
-    created: "2026-01-19T11:18:35.851874588+05:30"
+    created: "2026-01-19T11:21:05.923723125+05:30"
     description: A Helm chart for Kubernetes CronJob to push svc mapping to spog -
       including trivy
     digest: 9a35a57451294e316f6b1b772ead71dafe347f708e2cb12c73abf33146d49a60
@@ -36,7 +36,7 @@ entries:
     version: 0.1.23
   - apiVersion: v2
     appVersion: "1"
-    created: "2026-01-19T11:18:35.850082528+05:30"
+    created: "2026-01-19T11:21:05.923447117+05:30"
     description: A Helm chart for Kubernetes CronJob to push svc mapping to spog -
       including trivy
     digest: a6e15a24309b4e89f9acd5ae5e7fbbb8d680699d0636e87aac92677b8721997e
@@ -47,7 +47,7 @@ entries:
     version: 0.1.22
   - apiVersion: v2
     appVersion: "1"
-    created: "2026-01-19T11:18:35.849778843+05:30"
+    created: "2026-01-19T11:21:05.923084959+05:30"
     description: A Helm chart for Kubernetes CronJob to push svc mapping to spog -
       including trivy
     digest: d0be62c309a8310f776b7a5d85e024d79a3dbb7662faec34df7058df29a6028f
@@ -58,7 +58,7 @@ entries:
     version: 0.1.21
   - apiVersion: v2
     appVersion: "1"
-    created: "2026-01-19T11:18:35.849465816+05:30"
+    created: "2026-01-19T11:21:05.922759473+05:30"
     description: A Helm chart for Kubernetes CronJob to push svc mapping to spog -
       including trivy
     digest: c16687de08bb67a734b5aed80295561cc9448f870cbb9790ea3d0f632cf6ab7c
@@ -69,7 +69,7 @@ entries:
     version: 0.1.20
   - apiVersion: v2
     appVersion: "1"
-    created: "2026-01-19T11:18:35.848663491+05:30"
+    created: "2026-01-19T11:21:05.922215463+05:30"
     description: A Helm chart for Kubernetes CronJob to push svc mapping to spog -
       including trivy
     digest: 2ec3ab24b7b363dacb18e54a50c58626a559f7b24bcd7f6702e7cc749a8795c6
@@ -80,7 +80,7 @@ entries:
     version: 0.1.19
   - apiVersion: v2
     appVersion: "1"
-    created: "2026-01-19T11:18:35.84821086+05:30"
+    created: "2026-01-19T11:21:05.921859948+05:30"
     description: A Helm chart for Kubernetes CronJob to push svc mapping to spog -
       including trivy
     digest: 36add4525cabf0e614d7b7a3c1d74767df7085b74dfdde334671f738feb2446d
@@ -91,7 +91,7 @@ entries:
     version: 0.1.18
   - apiVersion: v2
     appVersion: "1"
-    created: "2026-01-19T11:18:35.847769688+05:30"
+    created: "2026-01-19T11:21:05.921542198+05:30"
     description: A Helm chart for Kubernetes CronJob to push svc mapping to spog -
       including trivy
     digest: a066b2ec3b9f45484400e7650dfccbac227894feb9fe4d5ab544fedc230382fc
@@ -102,7 +102,7 @@ entries:
     version: 0.1.17
   - apiVersion: v2
     appVersion: "1"
-    created: "2026-01-19T11:18:35.847517496+05:30"
+    created: "2026-01-19T11:21:05.921278183+05:30"
     description: A Helm chart for Kubernetes CronJob to push svc mapping to spog -
       including trivy
     digest: 1dd22c9cbf8d5f457c23a16231af89427807d3436ab000ce32bfd7ca3603563b
@@ -113,7 +113,7 @@ entries:
     version: 0.1.16
   - apiVersion: v2
     appVersion: "1"
-    created: "2026-01-19T11:18:35.847258592+05:30"
+    created: "2026-01-19T11:21:05.920987208+05:30"
     description: A Helm chart for Kubernetes CronJob to push svc mapping to spog -
       including trivy
     digest: ba873f0a627cecd66d97340dac20790cae4a54be1302249c2ddcb00e22779dfb
@@ -124,7 +124,7 @@ entries:
     version: 0.1.15
   - apiVersion: v2
     appVersion: "1"
-    created: "2026-01-19T11:18:35.84698798+05:30"
+    created: "2026-01-19T11:21:05.920611069+05:30"
     description: A Helm chart for Kubernetes CronJob to push svc mapping to spog -
       including trivy
     digest: dbb83b167bb5c26e8039c9a1400834074dd4326195361765b4ce25a5e73d788e
@@ -135,7 +135,7 @@ entries:
     version: 0.1.14
   - apiVersion: v2
     appVersion: "1"
-    created: "2026-01-19T11:18:35.846634723+05:30"
+    created: "2026-01-19T11:21:05.920323761+05:30"
     description: A Helm chart for Kubernetes CronJob to push svc mapping to spog -
       including trivy
     digest: 020c0a9affb358abddb8863166a75563bad5d646c4123f21a47c44f4c8e7aa08
@@ -146,7 +146,7 @@ entries:
     version: 0.1.13
   - apiVersion: v2
     appVersion: "1"
-    created: "2026-01-19T11:18:35.846271396+05:30"
+    created: "2026-01-19T11:21:05.919937959+05:30"
     description: A Helm chart for Kubernetes CronJob to push svc mapping to spog -
       including trivy
     digest: db70acfe6e54ba2ec3b96044ee3e7d939ce33235200b10c5401404943006ce5a
@@ -157,7 +157,7 @@ entries:
     version: 0.1.12
   - apiVersion: v2
     appVersion: "1"
-    created: "2026-01-19T11:18:35.845903738+05:30"
+    created: "2026-01-19T11:21:05.919551249+05:30"
     description: A Helm chart for Kubernetes CronJob to push svc mapping to spog -
       including trivy
     digest: 79d87ca7b273c9301ce738c95dc2ee2b1f734a75e547f18763e384294e9f632d
@@ -168,7 +168,7 @@ entries:
     version: 0.1.11
   - apiVersion: v2
     appVersion: "1"
-    created: "2026-01-19T11:18:35.845468183+05:30"
+    created: "2026-01-19T11:21:05.91861571+05:30"
     description: A Helm chart for Kubernetes CronJob to push svc mapping to spog -
       including trivy
     digest: b512e78d73baee5da19d0e29f225ae8cbccd421f52d4e92a5e9128ea5f479f2d
@@ -179,7 +179,7 @@ entries:
     version: 0.1.10
   - apiVersion: v2
     appVersion: "1"
-    created: "2026-01-19T11:18:35.854652945+05:30"
+    created: "2026-01-19T11:21:05.926398138+05:30"
     description: A Helm chart for Kubernetes CronJob to push svc mapping to spog -
       including trivy
     digest: a4f1f2c2cc9ebd70b1c6ac5d0154f852444d0c08462ee698c6aacff0126910e5
@@ -190,7 +190,7 @@ entries:
     version: 0.1.9
   - apiVersion: v2
     appVersion: "1"
-    created: "2026-01-19T11:18:35.854385828+05:30"
+    created: "2026-01-19T11:21:05.926005761+05:30"
     description: A Helm chart for Kubernetes CronJob to push svc mapping to spog -
       including trivy
     digest: 038b50bbbde5ebb099cad038edbe8165c94e41341c402058b5b7342f2e6da8a3
@@ -201,7 +201,7 @@ entries:
     version: 0.1.8
   - apiVersion: v2
     appVersion: "1"
-    created: "2026-01-19T11:18:35.854119189+05:30"
+    created: "2026-01-19T11:21:05.925669698+05:30"
     description: A Helm chart for Kubernetes CronJob to push svc mapping to spog -
       including ingress data also
     digest: ee1cf520351077594160eeee03d2b8eafd9c44bf5c40d5f29687396f8cb65296
@@ -212,7 +212,7 @@ entries:
     version: 0.1.7
   - apiVersion: v2
     appVersion: "1"
-    created: "2026-01-19T11:18:35.853827237+05:30"
+    created: "2026-01-19T11:21:05.925410211+05:30"
     description: A Helm chart for Kubernetes CronJob to push svc mapping to spog -
       including ingress data also
     digest: 29b7604117cda7825ef0cc7d6240a10c31bd18ae861aa7fcb6350cd615b1337e
@@ -223,7 +223,7 @@ entries:
     version: 0.1.6
   - apiVersion: v2
     appVersion: "1"
-    created: "2026-01-19T11:18:35.853578475+05:30"
+    created: "2026-01-19T11:21:05.925091743+05:30"
     description: A Helm chart for Kubernetes CronJob to push svc mapping to spog -
       including ingress data also
     digest: 42c4bce97236ae55cf2dc714a011916381314b5d03aec8c0a3049f5f17fb0593
@@ -234,7 +234,7 @@ entries:
     version: 0.1.5
   - apiVersion: v2
     appVersion: "1"
-    created: "2026-01-19T11:18:35.853339345+05:30"
+    created: "2026-01-19T11:21:05.924808736+05:30"
     description: A Helm chart for Kubernetes CronJob to push svc mapping to spog -
       including ingress data also
     digest: 7f3117baf0e16a722b9502a75f9d1eae5020cf1a79b0437b52885e2de5d98a40
@@ -245,7 +245,7 @@ entries:
     version: 0.1.4
   - apiVersion: v2
     appVersion: "1"
-    created: "2026-01-19T11:18:35.853037845+05:30"
+    created: "2026-01-19T11:21:05.924575605+05:30"
     description: A Helm chart for Kubernetes CronJob to push svc mapping to spog,
       added namespace
     digest: fab3b63863615e7e256fc0f85d6a3b94f75d553610a1b8ae10ec1fbaa30915ec
@@ -256,7 +256,7 @@ entries:
     version: 0.1.3
   - apiVersion: v2
     appVersion: "1"
-    created: "2026-01-19T11:18:35.849054677+05:30"
+    created: "2026-01-19T11:21:05.922473221+05:30"
     description: A Helm chart for Kubernetes CronJob to push svc mapping to spog,
       added namespace
     digest: 730b081d2a1ca31e5e493e11b8898d65b49a3730aa1107a14c7e9d6764ab3adb
@@ -267,7 +267,7 @@ entries:
     version: 0.1.2
   - apiVersion: v2
     appVersion: "1"
-    created: "2026-01-19T11:18:35.844980627+05:30"
+    created: "2026-01-19T11:21:05.918135018+05:30"
     description: A Helm chart for Kubernetes CronJob to push svc mapping to spog
     digest: e6ae35b2270286ae8db2a74b1641e1f2394615b5c330c00f7eb3956969dddcf7
     name: spog-eks
@@ -277,7 +277,7 @@ entries:
     version: 0.1.1
   - apiVersion: v2
     appVersion: "1"
-    created: "2026-01-19T11:18:35.844182296+05:30"
+    created: "2026-01-19T11:21:05.917482901+05:30"
     description: A Helm chart for Kubernetes CronJob to push svc mapping to spog
     digest: 7efed5616d34948d34a9a3e7469e24c31c1717803777b4c155449d76aa0aae81
     name: spog-eks
@@ -285,4 +285,4 @@ entries:
     urls:
     - https://spogai.github.io/eks-helm-chart/spog-eks-0.1.0.tgz
     version: 0.1.0
-generated: "2026-01-19T11:18:35.843646166+05:30"
+generated: "2026-01-19T11:21:05.91698085+05:30"
